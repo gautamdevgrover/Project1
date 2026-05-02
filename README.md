@@ -157,22 +157,6 @@ cd nodejs-cicd-pipeline-jenkins-k8s
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*Add screenshots of:*
-
-* Jenkins pipeline success
-* Docker image push
-* Kubernetes pods
-
----
-
-## 🎥 Demo (Optional)
-
-*Add demo video link*
-
----
-
 ## 🧠 Challenges & Solutions
 
 ### ❌ Challenge: Deployment shows success even when pods fail
